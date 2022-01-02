@@ -57,6 +57,7 @@ function scoreboard(string) {
 Bachelor's degree, Engineer of Information Technologies
 
 ## Courses:
+Learning resources: Udemy, Coursera, EdX, Linkedin Learning, Microsoft documentation and webinars, bootcamps.
 
 👉 **EdX & University of Pennsylvania** -\
 09.21-present: Programming for the Web with JavaScript (Level: Intermediate)
@@ -76,6 +77,9 @@ Bachelor's degree, Engineer of Information Technologies
 👉 **Coursera & University of London** -\
 11.2020: "Responsive Web Design" course\
 10.2020: "Responsive Website Basics: Code with HTML, CSS and JavaScript" course
+
+Studied other related subjects, passed and certified:\
+Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundation
 
 ## Languages:
 
