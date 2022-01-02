@@ -1,6 +1,5 @@
-#SVETLANA PRUS
 
-<img src="C:\PRIVAT\SVETA\_PROGRAMMERING\__RSS\GIT\correction.jpg">
+<img src="C:\PRIVAT\SVETA\_PROGRAMMERING\__RSS\GIT\correction.jpg" alt="image"/>
 
 >##Contact me:
 > ___
