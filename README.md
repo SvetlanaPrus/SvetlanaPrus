@@ -17,7 +17,7 @@
 
 ## About me:
 
-I have a passion and interest to new technologies. Right now, I am on a way in the career-changing transition process and looking for a job as a Frontend Developer. I have an IT-engineering background. Gained an international work experience in the maritime industry and an experience in accounting. As a person, I am structured and organized, able to prioritize and complete tasks with efficiency and accuracy. Enjoy dealing with a dynamic environment and relate to different people. Have a positive attitude and enthusiasm for new challenges.
+I have a passion and interest to new technologies. Right now, I am on a way in the career-changing transition process and looking for a job as a Frontend Developer. I have an IT-engineering background. Gained an international work experience in the maritime industry and an experience in accounting. As a person, I am structured and organized, able to prioritize and complete tasks with efficiency and accuracy. Enjoy dealing with a dynamic environment and relate to different people. Have a positive attitude and enthusiasm for new challenges. Am I your new employee?
 
 ## Skills:
 
