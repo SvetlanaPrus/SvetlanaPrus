@@ -53,8 +53,8 @@ function scoreboard(string) {
 
 ## Education:
 
-* **Kaliningrad State Technical University**\
-  Bachelor's degree, Engineer of Information Technologies
+**Kaliningrad State Technical University**\
+Bachelor's degree, Engineer of Information Technologies
 
 ## Courses:
 
