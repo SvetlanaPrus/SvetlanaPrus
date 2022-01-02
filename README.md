@@ -23,7 +23,7 @@ I have a passion and interest to new technologies. Right now, I am on a way in t
 
 1. HTML, CSS, DOM
 2. Javascript
-3. React
+3. React, Redux
 4. GitHub, GitLab
 5. Webstorm, VC Code
 
