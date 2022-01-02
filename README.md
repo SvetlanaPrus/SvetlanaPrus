@@ -24,7 +24,7 @@ I have a passion and interest to new technologies. Right now, I am on a way in t
 
 ## Code example:
 
-[Codewars: Level 7 - Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)
+👉 [Codewars: Level 7 - Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)
 ```
 function scoreboard(string) {
   const arrWords = ["nil","one","two","three","four","five","six","seven","eight","nine"];
@@ -40,8 +40,8 @@ function scoreboard(string) {
 
 📌 GitHub:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SvetlanaPrus&repo=Tips-and-Tricks-Redux&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/SvetlanaPrus/Tips-and-Tricks-Redux)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SvetlanaPrus&repo=Weather-Redux-API--React-hook-form-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/SvetlanaPrus/Weather-Redux-API--React-hook-form-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SvetlanaPrus&repo=Tips-and-Tricks-Redux&title_color=ffffff&text_color=c9cacc&icon_color=85E0F2&bg_color=17505C)](https://github.com/SvetlanaPrus/Tips-and-Tricks-Redux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SvetlanaPrus&repo=Weather-Redux-API--React-hook-form-&title_color=ffffff&text_color=c9cacc&icon_color=85E0F2&bg_color=17505C)](https://github.com/SvetlanaPrus/Weather-Redux-API--React-hook-form-)
 
 📌 GitLab:
 * [Billing system: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project2)
@@ -54,28 +54,28 @@ function scoreboard(string) {
 
 ## Courses:
 
-EdX & University of Pennsylvania -\
+👉 EdX & University of Pennsylvania -\
 09.21-present: Programming for the Web with JavaScript (Level: Intermediate)
 
-"Lectrum", the live online bootcamp –\
+👉 "Lectrum", the live online bootcamp –\
 11-01.22: React, Redux, MobX, TypeScript, Styled Components and CSS Modules\
 10-11.21: JavaScript/Advanced & TypeScript with modern approach to development, theory\
 07-09.21: JavaScript/ECMAScript with deep topics understanding, Group & Own Projects (HTML DOM, vanilla JS & Local Storage)\
 05-08.21: React, Redux, MobX, TypeScript, Styled Components and CSS Modules, Group & Own Projects (React JS)
 
-"PASV", the live online bootcamp –\
+👉 "PASV", the live online bootcamp –\
 04-04.21: React Project, try\
 12-03.21: React JS fundamentals, incl. Hooks, API, Router, Redux\
 10-11.20: Javascript Practice, solving algorithmic problems\
 09-10.20: Javascript Syntax
 
-Coursera & University of London -\
+👉 Coursera & University of London -\
 11.2020: "Responsive Web Design" course\
 10.2020: "Responsive Website Basics: Code with HTML, CSS and JavaScript" course
 
 ## Languages:
 
-* :england: English: Intermediate / Upper Intermediate
-* :norway: Norwegian: Intermediate / Upper Intermediate
-* :lithuania: Lithuanian: Beginner / Pre-Intermediate
-* :russia: Russian: Native
+* English: Intermediate / Upper Intermediate\
+* Norwegian: Intermediate / Upper Intermediate\
+* Lithuanian: Beginner / Pre-Intermediate\
+* Russian: Native
