@@ -6,6 +6,7 @@
 >### Email: swetlana.prus@gmail.com
 >[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/svetlanaprus/)
 >[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/SvetlanaPrus/)
+>[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://www.facebook.com/svetkulvic/)
 >[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/SvetlanaPrus)
 >[![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=gitlab&logoColor=white&color=0D76A8)](https://gitlab.com/SvetlanaPrus)
 >[![CodeWars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codewars&logoColor=red&color=0D76A8)](https://www.codewars.com/users/SvetlanaPrus)
@@ -23,8 +24,7 @@ I have a passion and interest to new technologies. Right now, I am on a way in t
 5. Webstorm, VC Code
 
 ## Code example:
-
-👉 [Codewars: Level 7 - Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)
+📌 [Codewars: Level 7 - Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)
 ```
 function scoreboard(string) {
   const arrWords = ["nil","one","two","three","four","five","six","seven","eight","nine"];
@@ -75,7 +75,7 @@ function scoreboard(string) {
 
 ## Languages:
 
-* English: Intermediate / Upper Intermediate\
-* Norwegian: Intermediate / Upper Intermediate\
-* Lithuanian: Beginner / Pre-Intermediate\
+* English: Intermediate / Upper Intermediate
+* Norwegian: Intermediate / Upper Intermediate
+* Lithuanian: Beginner / Pre-Intermediate
 * Russian: Native
