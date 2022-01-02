@@ -1,6 +1,6 @@
 # SVETLANA PRUS
 
-![image](C:/PRIVAT/SVETA/_PROGRAMMERING/__RSS/GIT/correction.jpg)
+![image]()
 
 >## Contact me:
 > ___
