@@ -4,12 +4,16 @@
 >
 >### Phone: +47 97 51 42 26
 >### Email: swetlana.prus@gmail.com
+>Prof.:
 >[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/svetlanaprus/)
->[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/SvetlanaPrus/)
->[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://www.facebook.com/svetkulvic/)
 >[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/SvetlanaPrus)
 >[![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=gitlab&logoColor=white&color=0D76A8)](https://gitlab.com/SvetlanaPrus)
 >[![CodeWars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codewars&logoColor=red&color=0D76A8)](https://www.codewars.com/users/SvetlanaPrus)
+>
+>Soc.: 
+>[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/SvetlanaPrus/)
+>[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://www.facebook.com/svetkulvic/)
+
 
 ## About me:
 
