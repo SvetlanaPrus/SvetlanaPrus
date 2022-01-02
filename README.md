@@ -1,23 +1,22 @@
-
+# SVETLANA PRUS
 
 <img src="C:\PRIVAT\SVETA\_PROGRAMMERING\__RSS\GIT\correction.jpg" alt="image"/>
 
->##Contact me:
+>## Contact me:
 > ___
->###Phone: +47 97 51 42 26
->###Email: swetlana.prus@gmail.com
+>### Phone: +47 97 51 42 26
+>### Email: swetlana.prus@gmail.com
 >[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/svetlanaprus/)
->[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/svetkulvic/)
 >[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/SvetlanaPrus/)
 >[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/SvetlanaPrus)
 >[![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=gitlab&logoColor=white&color=0D76A8)](https://gitlab.com/SvetlanaPrus)
 >[![CodeWars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codewars&logoColor=red&color=0D76A8)](https://www.codewars.com/users/SvetlanaPrus)
->
-##About me:
+
+## About me:
 ___
 I have a passion and interest to new technologies. Right now, I am on a way in the career-changing transition process and looking for a job as a Frontend Developer. I have an IT-engineering background. Gained an international work experience in the maritime industry and an experience in accounting. As a person, I am structured and organized, able to prioritize and complete tasks with efficiency and accuracy. Enjoy dealing with a dynamic environment and relate to different people. Have a positive attitude and enthusiasm for new challenges.
 
-##Skills:
+## Skills:
 ___
 1. HTML, CSS, DOM
 2. Javascript
@@ -25,7 +24,7 @@ ___
 4. GitHub, GitLab
 5. Webstorm, VC Code
 
-##Code example:
+## Code example:
 ___
 [Codewars: Level 7 - Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)
 ```
@@ -39,7 +38,7 @@ function scoreboard(string) {
 }
 ```
 
-##Repositories:
+## Repositories:
 ___
 📌 GitHub:
 
@@ -50,12 +49,12 @@ ___
 * [Billing system: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project2)
 * [English Online School «Catch-up!»: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project1)
 
-##Education:
+## Education:
 ___
 * Kaliningrad State Technical University\
   Bachelor's degree, Engineer of Information Technologies
 
-##Courses:
+## Courses:
 ___
 EdX & University of Pennsylvania -\
 09.21-present: Programming for the Web with JavaScript (Level: Intermediate)
@@ -76,7 +75,7 @@ Coursera & University of London -\
 11.2020: "Responsive Web Design" course\
 10.2020: "Responsive Website Basics: Code with HTML, CSS and JavaScript" course
 
-##Languages:
+## Languages:
 ___
 * English: Intermediate / Upper Intermediate
 * Norwegian: Intermediate / Upper Intermediate
