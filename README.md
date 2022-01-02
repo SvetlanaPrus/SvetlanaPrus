@@ -1,9 +1,7 @@
-# SVETLANA PRUS
-
 ![image](images/correction.jpg)
 
 >## Contact me:
-
+>
 >### Phone: +47 97 51 42 26
 >### Email: swetlana.prus@gmail.com
 >[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/svetlanaprus/)
