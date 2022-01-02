@@ -75,7 +75,7 @@ Coursera & University of London -\
 
 ## Languages:
 
-* English: Intermediate / Upper Intermediate
-* Norwegian: Intermediate / Upper Intermediate
-* Lithuanian: Beginner / Pre-Intermediate
-* Russian: Native
+* :england: English: Intermediate / Upper Intermediate
+* :norway: Norwegian: Intermediate / Upper Intermediate
+* :lithuania: Lithuanian: Beginner / Pre-Intermediate
+* :russia: Russian: Native
