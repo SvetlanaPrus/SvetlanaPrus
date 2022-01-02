@@ -1,4 +1,4 @@
-#SVETLANA PRUS
+SVETLANA PRUS
 
 <img src="C:\PRIVAT\SVETA\_PROGRAMMERING\__RSS\GIT\correction.jpg">
 
