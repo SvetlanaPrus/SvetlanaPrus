@@ -1,6 +1,6 @@
 # SVETLANA PRUS
 
-![image]()
+![image](images/correction.jpg)
 
 >## Contact me:
 > ___
