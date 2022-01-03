@@ -40,10 +40,9 @@ function scoreboard(string) {
         .map(word => arrWords.indexOf(word));
 }
 ```
-Current status: 
-<a target="_blank" href="https://www.codewars.com/users/SvetlanaPrus">
-<img src="https://www.codewars.com/users/SvetlanaPrus/badges/large" alt="Codewars" height="30"/>
-</a>
+👉 <a target="_blank" href="https://www.codewars.com/users/SvetlanaPrus">
+    <img src="https://www.codewars.com/users/SvetlanaPrus/badges/large" alt="Codewars" height="30"/>
+   </a>
 
 ## Repositories:
 
