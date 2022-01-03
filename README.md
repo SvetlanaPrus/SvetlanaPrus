@@ -30,7 +30,7 @@ I have a passion and interest to new technologies. Right now, I am on a way in t
 
 ## Code example:
 <a target="_blank" href="https://www.codewars.com/users/SvetlanaPrus">
-<img src="https://www.codewars.com/users/SvetlanaPrus/badges/small" alt="codewars" />
+<img src="https://www.codewars.com/users/SvetlanaPrus/badges/large" alt="codewars" />
 </a>
 
 📌 [Codewars: Level 7 - Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)
