@@ -29,10 +29,6 @@ I have a passion and interest to new technologies. Right now, I am on a way in t
 5. Webstorm, VC Code
 
 ## Code example:
-<a target="_blank" href="https://www.codewars.com/users/SvetlanaPrus">
-<img src="https://www.codewars.com/users/SvetlanaPrus/badges/large" alt="Codewars" height="30"/>
-</a>
-
 📌 [Codewars: Level 7 - Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)
 ```
 function scoreboard(string) {
@@ -44,6 +40,10 @@ function scoreboard(string) {
         .map(word => arrWords.indexOf(word));
 }
 ```
+Current status: 
+<a target="_blank" href="https://www.codewars.com/users/SvetlanaPrus">
+<img src="https://www.codewars.com/users/SvetlanaPrus/badges/large" alt="Codewars" height="30"/>
+</a>
 
 ## Repositories:
 
