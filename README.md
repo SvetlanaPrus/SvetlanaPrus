@@ -96,8 +96,6 @@ Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundat
 ## GitHub Activities:
 
 <figure class="video_container">
-  <video width="400" height="300" controls="controls" poster="./images/wrapper.png">
-    <source src="./video/github2021.mp4" type="video/mp4">
-  </video>
+  <video width="400" height="300" controls muted poster="./images/wrapper.png" src="./video/github2021.mp4"></video>
 </figure>
 
