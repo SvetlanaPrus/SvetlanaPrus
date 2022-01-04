@@ -40,9 +40,9 @@ function scoreboard(string) {
         .map(word => arrWords.indexOf(word));
 }
 ```
-👉 <a target="_blank" href="https://www.codewars.com/users/SvetlanaPrus">
-    <img src="https://www.codewars.com/users/SvetlanaPrus/badges/large" alt="Codewars" height="30"/>
-   </a>
+<a target="_blank" href="https://www.codewars.com/users/SvetlanaPrus">
+<img src="https://www.codewars.com/users/SvetlanaPrus/badges/large" alt="Codewars" height="30"/>
+</a>  👈 See other examples
 
 
 ## Repositories:
@@ -98,4 +98,5 @@ Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundat
 <figure class="video_container">
   <video width="400" height="300" controls muted poster="./images/wrapper.png" src="./video/github2021.mp4"></video>
 </figure>
+
 
