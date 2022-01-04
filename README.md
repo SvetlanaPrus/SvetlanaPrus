@@ -92,3 +92,12 @@ Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundat
 * **Norwegian**: Intermediate / Upper Intermediate
 * **Lithuanian**: Beginner / Pre-Intermediate
 * **Russian**: Native
+
+## GitHub Activities:
+
+<figure class="video_container">
+  <video width="400" height="300" controls="controls" poster="./images/wrapper.png">
+    <source src="./video/github2021.mp4" type="video/mp4">
+  </video>
+</figure>
+
