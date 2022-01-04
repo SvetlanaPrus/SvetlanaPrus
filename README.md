@@ -62,7 +62,7 @@ function scoreboard(string) {
 Bachelor's degree, Engineer of Information Technologies
 
 ## Courses:
-Learning resources: Udemy, Coursera, EdX, Linkedin Learning, Microsoft documentation and webinars, bootcamps.
+Learning resources: Udemy, Coursera, EdX, Pluralsight, Linkedin Learning, Microsoft documentation and webinars, bootcamps.
 
 👉 **EdX & University of Pennsylvania** -\
 09.21-present: Programming for the Web with JavaScript (Level: Intermediate)
