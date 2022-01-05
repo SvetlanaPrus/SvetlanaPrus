@@ -54,6 +54,9 @@ function scoreboard(string) {
 * [Billing system: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project2)
 * [English Online School «Catch-up!»: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project1)
 
+## Some achievements:
+![drawing](./images/javascript300.jpg)![drawing](./images/html300.jpg)![drawing](./images/react300.jpg)
+
 ## Education:
 
 **Kaliningrad State Technical University**\
