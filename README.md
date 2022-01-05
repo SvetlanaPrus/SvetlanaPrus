@@ -95,12 +95,12 @@ Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundat
 
 ## Some achievements:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6884191287369584640" height="358" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:6884191287789027328/">
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6884191287369584640" height="358" width="504" title="Embedded post"></iframe>
+</a>
 
 ## GitHub Activities:
 
-<figure class="video_container">
-  <video width="400" height="300" controls muted poster="./images/wrapper.png" src="./video/github2021.mp4"></video>
-</figure>
+[![Watch the video](./images/wrapper.png)](./video/github2021.mp4)
 
 
