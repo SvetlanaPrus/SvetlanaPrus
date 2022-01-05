@@ -95,7 +95,7 @@ Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundat
 
 ## Some achievements:
 
-<iframe src="https://www.linkedin.com/posts/svetlanaprus_measure-your-skills-activity-6884191287789027328-6fHz" loading="eager" height="358" width="504" framework="0" title="Embeddedpost"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6884191287369584640" height="358" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ## GitHub Activities:
 
