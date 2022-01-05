@@ -55,7 +55,7 @@ function scoreboard(string) {
 * [English Online School «Catch-up!»: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project1)
 
 ## Professional tests (Pluralsight): 
-![drawing](./images/javascript280.jpg)  ![drawing](./images/html280.jpg)  ![drawing](./images/react280.jpg)
+![drawing](./images/javascript270.jpg)  ![drawing](./images/html270.jpg)  ![drawing](./images/react270.jpg)
 
 ## Education:
 
