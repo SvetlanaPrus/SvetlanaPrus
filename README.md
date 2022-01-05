@@ -40,15 +40,15 @@ function scoreboard(string) {
         .map(word => arrWords.indexOf(word));
 }
 ```
-<a target="_blank" href="https://www.codewars.com/users/SvetlanaPrus">
-<img src="https://www.codewars.com/users/SvetlanaPrus/badges/large" alt="Codewars" height="30"/>
-</a>  👈 See other examples
+
 
 ## Repositories:
 📌 GitHub:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SvetlanaPrus&repo=Tips-and-Tricks-Redux&title_color=ffffff&text_color=c9cacc&icon_color=85E0F2&bg_color=17505C)](https://github.com/SvetlanaPrus/Tips-and-Tricks-Redux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SvetlanaPrus&repo=Weather-Redux-API--React-hook-form-&title_color=ffffff&text_color=c9cacc&icon_color=85E0F2&bg_color=17505C)](https://github.com/SvetlanaPrus/Weather-Redux-API--React-hook-form-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SvetlanaPrus&repo=Codewars&title_color=ffffff&text_color=c9cacc&icon_color=85E0F2&bg_color=17505C)](https://github.com/SvetlanaPrus/Codewars)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SvetlanaPrus&repo=Codewars-Solutions&title_color=ffffff&text_color=c9cacc&icon_color=85E0F2&bg_color=17505C)](https://github.com/SvetlanaPrus/Codewars-Solutions)
 
 📌 GitLab:
 * [Billing system: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project2)
