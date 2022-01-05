@@ -55,7 +55,7 @@ function scoreboard(string) {
 * [English Online School «Catch-up!»: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project1)
 
 ## Some achievements:
-![drawing](./images/javascript300.jpg)  ![drawing](./images/html300.jpg)  ![drawing](./images/react300.jpg)
+![drawing](./images/javascript260.jpg)  ![drawing](./images/html260.jpg)  ![drawing](./images/react260.jpg)
 
 ## Education:
 
