@@ -44,9 +44,7 @@ function scoreboard(string) {
 <img src="https://www.codewars.com/users/SvetlanaPrus/badges/large" alt="Codewars" height="30"/>
 </a>  👈 See other examples
 
-
 ## Repositories:
-
 📌 GitHub:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SvetlanaPrus&repo=Tips-and-Tricks-Redux&title_color=ffffff&text_color=c9cacc&icon_color=85E0F2&bg_color=17505C)](https://github.com/SvetlanaPrus/Tips-and-Tricks-Redux)
@@ -55,6 +53,9 @@ function scoreboard(string) {
 📌 GitLab:
 * [Billing system: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project2)
 * [English Online School «Catch-up!»: Vanilla Javascript & DOM](https://gitlab.com/SvetlanaPrus/svprus-jsb-project1)
+
+## Some achievements:
+![drawing](./images/javascript.jpg)![drawing](./images/html.jpg)![drawing](./images/react.jpg)
 
 ## Education:
 
@@ -92,11 +93,3 @@ Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundat
 * **Norwegian**: Intermediate / Upper Intermediate
 * **Lithuanian**: Beginner / Pre-Intermediate
 * **Russian**: Native
-
-## GitHub Activities:
-
-<video width="400" height="300" controls="controls" poster="./images/wrapper.png">
-<source src="./video/github2021.mp4" type="video/mp4">
-</video>
-
-
