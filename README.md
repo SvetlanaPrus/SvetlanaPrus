@@ -93,14 +93,10 @@ Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundat
 * **Lithuanian**: Beginner / Pre-Intermediate
 * **Russian**: Native
 
-## Some achievements:
-
-<a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:6884191287789027328/">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6884191287369584640" height="358" width="504" title="Embedded post"></iframe>
-</a>
-
 ## GitHub Activities:
 
-[![Watch the video](./images/wrapper.png)](./video/github2021.mp4)
+<video width="400" height="300" controls="controls" poster="./images/wrapper.png">
+<source src="./video/github2021.mp4" type="video/mp4">
+</video>
 
 
