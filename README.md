@@ -93,6 +93,10 @@ Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundat
 * **Lithuanian**: Beginner / Pre-Intermediate
 * **Russian**: Native
 
+## Some achievements:
+
+<iframe src="https://www.linkedin.com/posts/svetlanaprus_measure-your-skills-activity-6884191287789027328-6fHz" loading="eager" height="358" width="504" framework="0" title="Embeddedpost"></iframe>
+
 ## GitHub Activities:
 
 <figure class="video_container">
