@@ -22,11 +22,11 @@ I have a passion and interest to new technologies. Right now, I am on a way in t
 
 ## Skills:
 
-1. HTML, CSS, DOM
-2. Javascript
+1. HTML, CSS
+2. Javascript, DOM
 3. React, Redux
 4. GitHub, GitLab
-5. Webstorm, VC Code
+5. WebStorm, VS Code
 
 ## Code example:
 [Codewars: Level 7 - Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)
