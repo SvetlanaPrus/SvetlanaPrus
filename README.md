@@ -69,7 +69,7 @@ Learning resources: Udemy, Coursera, EdX, Pluralsight, Linkedin Learning, Micros
 09.21-present: Programming for the Web with JavaScript (Level: Intermediate)
 
 👉 **"CodeReview"**-\
-01-02.22: "Preparing for an interview" course
+01-02.22: Preparing for an interview
 
 👉 **"Lectrum", the live online bootcamp** –\
 11-01.22: React bootcamp, theory\
