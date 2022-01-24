@@ -68,8 +68,11 @@ Learning resources: Udemy, Coursera, EdX, Pluralsight, Linkedin Learning, Micros
 👉 **EdX & University of Pennsylvania** -\
 09.21-present: Programming for the Web with JavaScript (Level: Intermediate)
 
+👉 **"CodeReview"**-\
+01-02.22: "Preparing for an interview" course
+
 👉 **"Lectrum", the live online bootcamp** –\
-11-01.22: React, Redux, MobX, TypeScript, Styled Components and CSS Modules\
+11-01.22: React bootcamp, theory\
 10-11.21: JavaScript/Advanced & TypeScript with modern approach to development, theory\
 07-09.21: JavaScript/ECMAScript with deep topics understanding, Group & Own Projects (HTML DOM, vanilla JS & Local Storage)\
 05-08.21: React, Redux, MobX, TypeScript, Styled Components and CSS Modules, Group & Own Projects (React JS)
@@ -85,7 +88,7 @@ Learning resources: Udemy, Coursera, EdX, Pluralsight, Linkedin Learning, Micros
 10.2020: "Responsive Website Basics: Code with HTML, CSS and JavaScript" course
 
 Studied other related subjects, passed and certified:\
-Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals, PRINCE2 Foundation
+Microsoft Azure Data Fundamentals, Microsoft Azure Fundamentals
 
 ## Languages:
 
