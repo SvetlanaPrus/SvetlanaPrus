@@ -40,7 +40,7 @@ function scoreboard(string) {
         .map(word => arrWords.indexOf(word));
 }
 ```
-><img src="https://www.codewars.com/users/SvetlanaPrus/badges/small" alt="codewars badge small"/>
+><img src="https://www.codewars.com/users/SvetlanaPrus/badges/micro" alt="codewars badge small"/>
 
 ## Repositories:
 📌 GitHub:
