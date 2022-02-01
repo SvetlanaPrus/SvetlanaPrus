@@ -22,7 +22,7 @@ I have a passion and interest to new technologies. Right now, I am on a way in t
 
 ## Skills:
 
-1. HTML, CSS
+1. HTML, CSS, Figma
 2. Javascript, DOM
 3. React, Redux
 4. GitHub, GitLab
