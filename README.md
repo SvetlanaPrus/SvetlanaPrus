@@ -77,9 +77,9 @@ Learning resources: Udemy, Coursera, EdX, Pluralsight, Linkedin Learning, Micros
 07-09.21: JavaScript/ECMAScript with deep topics understanding, Group & Own Projects (HTML DOM, vanilla JS & Local Storage)\
 05-08.21: React, Redux, MobX, TypeScript, Styled Components and CSS Modules, Group & Own Projects (React JS)
 
-👉 **Microsoft Azure Specialization via Coursera, 05.21-present** –
-Microsoft Azure AI Fundamentals AI-900 Exam Prep
-Microsoft Azure Data Fundamentals DP-900 Exam Prep
+👉 **Microsoft Azure Specialization via Coursera, 05.21-present** –\
+Microsoft Azure AI Fundamentals AI-900 Exam Prep–\
+Microsoft Azure Data Fundamentals DP-900 Exam Prep–\
 Microsoft Azure Fundamentals AZ-900 Exam Prep
 
 👉 **"PASV", the live online bootcamp** –\
