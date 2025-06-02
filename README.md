@@ -1,4 +1,3 @@
-# SVETLANA PRUS
 ![image](images/background.jpg)
 
 >## Contact details:
