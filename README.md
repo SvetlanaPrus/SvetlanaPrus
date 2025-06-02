@@ -1,5 +1,5 @@
 # SVETLANA PRUS
-![image](images/banner.jpg)
+![image](images/background.jpg)
 
 >## Contact details:
 >
