@@ -26,14 +26,4 @@ transition into a Full Stack Developer role.
 * Microsoft Azure certifications: Fundamentals, Data Fundamentals & AI
 * Soft skills: problem solving, self-awareness, time management, collaboration, adaptability, good team player
 
-## Education:
-
-**Kaliningrad State Technical University**\
-Bachelor's degree, Engineer of Information Technologies
-
-## Languages:
-
-* **English**: Intermediate / Upper Intermediate
-* **Norwegian**: Intermediate / Upper Intermediate
-
 
